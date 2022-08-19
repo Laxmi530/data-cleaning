@@ -1,5 +1,6 @@
 # Getting and Cleaning Data Project
 Author: Laxmidhar Routa
+
 Data Zip File Location: [UC Irvine Repo](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 # Goal of the Project
